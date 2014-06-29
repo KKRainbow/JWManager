@@ -1,0 +1,11 @@
+f:\c#\jw\Jiaowu\Jiaowu\bin\Debug\Jiaowu.exe.config
+f:\c#\jw\Jiaowu\Jiaowu\obj\Debug\Jiaowu.csprojResolveAssemblyReference.cache
+f:\c#\jw\Jiaowu\Jiaowu\obj\Debug\Jiaowu.Form1.resources
+f:\c#\jw\Jiaowu\Jiaowu\obj\Debug\Jiaowu.Properties.Resources.resources
+f:\c#\jw\Jiaowu\Jiaowu\obj\Debug\Jiaowu.csproj.GenerateResource.Cache
+f:\c#\jw\Jiaowu\Jiaowu\bin\Debug\Jiaowu.exe
+f:\c#\jw\Jiaowu\Jiaowu\bin\Debug\Jiaowu.pdb
+f:\c#\jw\Jiaowu\Jiaowu\obj\Debug\Jiaowu.exe
+f:\c#\jw\Jiaowu\Jiaowu\obj\Debug\Jiaowu.pdb
+f:\C#\jw\Jiaowu\Jiaowu\obj\Debug\Jiaowu.csproj.ResolveComReference.cache
+f:\C#\jw\Jiaowu\Jiaowu\obj\Debug\Jiaowu.Form2.resources
